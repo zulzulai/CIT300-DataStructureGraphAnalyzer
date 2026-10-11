@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+// Member 1 (Rifa) - Array Component
+
 package com.cit300.analyzer;
 
 public class ArrayOperations {
